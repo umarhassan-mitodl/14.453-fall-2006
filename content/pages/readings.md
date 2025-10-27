@@ -10,11 +10,11 @@ uid: 82de02b7-b5d0-9413-72d8-d21f8d6f5c87
 ---
 While there is no required textbook, the course does make frequent use of the following books:
 
-![Buy at MIT Press](/images/mp_logo.gif) BF = Blanchard, Olivier J., and Stanley Fisher. [_Lectures on Macroeconomics_](https://mitpress.mit.edu/books/lectures-macroeconomics). Cambridge, MA: MIT Press, 1989, ISBN: 0262022834.
+![Buy at MIT Press](/images/mp_logo.gif) BF = Blanchard, Olivier J., and Stanley Fisher. {{% resource_link "3d7d6fe9-f5aa-42e5-a48b-d643e3720e0c" "_Lectures on Macroeconomics_" %}}. Cambridge, MA: MIT Press, 1989, ISBN: 0262022834.
 
 Deaton = Deaton, Angus. _Understanding Consumption_. New York, NY: Oxford University Press, 1992, ISBN: 0198288247.
 
-![Buy at MIT Press](/images/mp_logo.gif) LS = Ljungqvist, Lars, and Thomas J. Sargent. [_Recursive Macroeconomic Theory_](https://mitpress.mit.edu/contributors/thomas-j-sargent). 2nd ed. Cambridge, MA: MIT Press, 2004, ISBN: 026212274X.
+![Buy at MIT Press](/images/mp_logo.gif) LS = Ljungqvist, Lars, and Thomas J. Sargent. {{% resource_link "2b940dd1-4395-45b9-aa17-472a46133aaf" "_Recursive Macroeconomic Theory_" %}}. 2nd ed. Cambridge, MA: MIT Press, 2004, ISBN: 026212274X.
 
 ## Readings by Session
 
